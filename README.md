@@ -84,11 +84,7 @@ This project is built for:
 ## 📫 Get in Touch
 
 Have questions or ideas? Reach out on
-
-[Delia](https://www.kaggle.com/deliag18)  
-[Adina](https://www.kaggle.com/adinakanapina) 
-[Raveeja](https://www.kaggle.com/raveejad)
-[Sherline](https://www.kaggle.com/sherlineherold)
+[Delia](https://www.kaggle.com/deliag18); [Adina](https://www.kaggle.com/adinakanapina); [Raveeja](https://www.kaggle.com/raveejad); [Sherline](https://www.kaggle.com/sherlineherold)
 
 ---
 
